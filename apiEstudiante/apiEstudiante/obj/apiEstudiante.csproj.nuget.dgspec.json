@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carlosecortesc\\source\\repos\\apiEstudiante\\apiEstudiante\\apiEstudiante.csproj": {}
+    "D:\\Documentos\\GitHub\\proyectoEstudiantes\\apiEstudiante\\apiEstudiante\\apiEstudiante.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carlosecortesc\\source\\repos\\apiEstudiante\\apiEstudiante\\apiEstudiante.csproj": {
+    "D:\\Documentos\\GitHub\\proyectoEstudiantes\\apiEstudiante\\apiEstudiante\\apiEstudiante.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carlosecortesc\\source\\repos\\apiEstudiante\\apiEstudiante\\apiEstudiante.csproj",
+        "projectUniqueName": "D:\\Documentos\\GitHub\\proyectoEstudiantes\\apiEstudiante\\apiEstudiante\\apiEstudiante.csproj",
         "projectName": "apiEstudiante",
-        "projectPath": "C:\\Users\\carlosecortesc\\source\\repos\\apiEstudiante\\apiEstudiante\\apiEstudiante.csproj",
-        "packagesPath": "C:\\Users\\carlosecortesc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carlosecortesc\\source\\repos\\apiEstudiante\\apiEstudiante\\obj\\",
+        "projectPath": "D:\\Documentos\\GitHub\\proyectoEstudiantes\\apiEstudiante\\apiEstudiante\\apiEstudiante.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Documentos\\GitHub\\proyectoEstudiantes\\apiEstudiante\\apiEstudiante\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\carlosecortesc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +52,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.2.3, )"
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
