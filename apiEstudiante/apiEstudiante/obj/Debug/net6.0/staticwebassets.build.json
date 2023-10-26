@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TKZMv+RsnC61NZ5lDkpvdDk+9WBOnwRP6RbYfrtlD2o=",
+  "Source": "apiEstudiante",
+  "BasePath": "_content/apiEstudiante",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
